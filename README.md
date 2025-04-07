@@ -1,1 +1,1 @@
-# git_practicals
+# This is a hotfix branch
